@@ -20,7 +20,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 ![Digital Art of Richard Gansey from the Raven Cycle and a quote from the book underneath. A button prompts Say Hello!
 A message "Hello To You Too" is displayed when button is pressed](https://media.giphy.com/media/cU6jJwaEwhSp74i1wY/giphy.gif)
 
