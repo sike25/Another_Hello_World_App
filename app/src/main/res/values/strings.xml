@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Helloo World</string>
+    <string name="say_hello">Say Hello!</string>
+    <string name="intro_message">
+        Where the hell is Ronan?” Gansey asked, echoing the words that thousands of humans had uttered since mankind developed speech.
+        As he stepped out of the science building, he tipped his head backwards, as if Ronan Lynch – dreamer of dreams, fighter of men,
+        skipper of classes – might somehow be flying overhead.
+        ― Maggie Stiefvater, The Raven King</string>
+    <string name="gansey_pic_description">Digital art depicting Richard Gansey the Third from Maggie Stevfaltar\'s The Raven Cycle. He wears his school sweater, his hands folded, his hair light brown. Black wings spring from his back and the phantom of a golden crown rests above his head.</string>
+</resources>
