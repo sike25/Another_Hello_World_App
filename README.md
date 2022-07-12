@@ -16,16 +16,13 @@ The following **required** functionality is completed:
 
 The following **additional** features are implemented:
 
-* [X] List anything else that you can get done to improve the app functionality!
-  I edited the background colour, and introductory message fonts and alignment.
+* [X] I edited the background colour, and introductory message fonts and alignment.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough of Hello World, Again' width='' alt='Digital Art of 
-Richard Gansey from the Raven Cycle and a quote from the book underneath. A button prompts Say Hello!
-A message "Hello To You Too" is displayed when button is pressed' />
+![Digital Art of Richard Gansey from the Raven Cycle and a quote from the book underneath. A button prompts Say Hello!
+A message "Hello To You Too" is displayed when button is pressed](https://media.giphy.com/media/cU6jJwaEwhSp74i1wY/giphy.gif)
 
 ## License
 
